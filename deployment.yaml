@@ -51,7 +51,7 @@ metadata:
     allow.http: "false"
 spec:
   rules:
-  - host: go.rancher.dev-ops-ninja.com
+  - host: msimon-k8s-lb.do.support.rancher.space
     http:
       paths:
         - path: /
